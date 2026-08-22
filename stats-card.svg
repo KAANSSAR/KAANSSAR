@@ -1,0 +1,52 @@
+<svg width="1000" height="210" viewBox="0 0 1000 210" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="210" rx="6" fill="#0A0E14"/>
+  <line x1="0" y1="20" x2="1000" y2="20" stroke="#5FD068" stroke-width="1" opacity="0.04"/>
+<line x1="0" y1="46" x2="1000" y2="46" stroke="#5FD068" stroke-width="1" opacity="0.04"/>
+<line x1="0" y1="72" x2="1000" y2="72" stroke="#5FD068" stroke-width="1" opacity="0.04"/>
+<line x1="0" y1="98" x2="1000" y2="98" stroke="#5FD068" stroke-width="1" opacity="0.04"/>
+<line x1="0" y1="124" x2="1000" y2="124" stroke="#5FD068" stroke-width="1" opacity="0.04"/>
+<line x1="0" y1="150" x2="1000" y2="150" stroke="#5FD068" stroke-width="1" opacity="0.04"/>
+<line x1="0" y1="176" x2="1000" y2="176" stroke="#5FD068" stroke-width="1" opacity="0.04"/>
+<line x1="0" y1="202" x2="1000" y2="202" stroke="#5FD068" stroke-width="1" opacity="0.04"/>
+  <rect x="1" y="1" width="998" height="208" rx="6" fill="none" stroke="#5FD068" opacity="0.25"/>
+  <line x1="339.6666666666667" y1="20" x2="339.6666666666667" y2="194" stroke="#5FD068" stroke-width="1" opacity="0.2"/>
+  <line x1="660.3333333333334" y1="20" x2="660.3333333333334" y2="194" stroke="#5FD068" stroke-width="1" opacity="0.2"/>
+  <text x="34" y="34" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" font-weight="700" fill="#5FD068" letter-spacing="1">STATS</text>
+<text x="34" y="64" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" fill="#7C8797">Public Repos</text>
+<text x="310.6666666666667" y="64" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="14" font-weight="700" fill="#F2F5F8" text-anchor="end">6</text>
+<text x="34" y="90" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" fill="#7C8797">Total Stars</text>
+<text x="310.6666666666667" y="90" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="14" font-weight="700" fill="#F2F5F8" text-anchor="end">1</text>
+<text x="34" y="116" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" fill="#7C8797">Followers</text>
+<text x="310.6666666666667" y="116" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="14" font-weight="700" fill="#F2F5F8" text-anchor="end">0</text>
+<text x="34" y="142" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" fill="#7C8797">Contributions</text>
+<text x="310.6666666666667" y="142" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="14" font-weight="700" fill="#F2F5F8" text-anchor="end">402</text>
+  <text x="354.6666666666667" y="34" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" font-weight="700" fill="#5FD068" letter-spacing="1">TOP LANGUAGES</text>
+<rect x="354.7" y="50" width="152.3" height="8" fill="#3572A5"/>
+<rect x="507.0" y="50" width="70.1" height="8" fill="#3178c6"/>
+<rect x="577.0" y="50" width="37.2" height="8" fill="#f1e05a"/>
+<rect x="614.2" y="50" width="18.0" height="8" fill="#563d7c"/>
+<rect x="632.3" y="50" width="13.1" height="8" fill="#e34c26"/>
+<circle cx="359.6666666666667" cy="76" r="4" fill="#3572A5"/>
+<text x="370.6666666666667" y="80" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="12" fill="#F2F5F8">Python</text>
+<text x="641.3333333333334" y="80" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="12" fill="#7C8797" text-anchor="end">52.4%</text>
+<circle cx="359.6666666666667" cy="98" r="4" fill="#3178c6"/>
+<text x="370.6666666666667" y="102" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="12" fill="#F2F5F8">TypeScript</text>
+<text x="641.3333333333334" y="102" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="12" fill="#7C8797" text-anchor="end">24.1%</text>
+<circle cx="359.6666666666667" cy="120" r="4" fill="#f1e05a"/>
+<text x="370.6666666666667" y="124" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="12" fill="#F2F5F8">JavaScript</text>
+<text x="641.3333333333334" y="124" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="12" fill="#7C8797" text-anchor="end">12.8%</text>
+<circle cx="359.6666666666667" cy="142" r="4" fill="#563d7c"/>
+<text x="370.6666666666667" y="146" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="12" fill="#F2F5F8">CSS</text>
+<text x="641.3333333333334" y="146" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="12" fill="#7C8797" text-anchor="end">6.2%</text>
+<circle cx="359.6666666666667" cy="164" r="4" fill="#e34c26"/>
+<text x="370.6666666666667" y="168" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="12" fill="#F2F5F8">HTML</text>
+<text x="641.3333333333334" y="168" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="12" fill="#7C8797" text-anchor="end">4.5%</text>
+  <text x="675.3333333333334" y="34" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" font-weight="700" fill="#5FD068" letter-spacing="1">STREAK</text>
+<text x="820.7" y="82" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="38" font-weight="700" fill="#5FD068" text-anchor="middle">3</text>
+<text x="820.7" y="100" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="11" fill="#7C8797" text-anchor="middle">CURRENT STREAK</text>
+<text x="820.7" y="114" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="10" fill="#7C8797" text-anchor="middle" opacity="0.7">since Aug 20</text>
+<text x="675.3333333333334" y="138" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="12" fill="#7C8797">Longest</text>
+<text x="962.0" y="138" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" font-weight="700" fill="#F2F5F8" text-anchor="end">14d</text>
+<text x="675.3333333333334" y="160" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="12" fill="#7C8797">Total (1y)</text>
+<text x="962.0" y="160" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" font-weight="700" fill="#F2F5F8" text-anchor="end">402</text>
+</svg>

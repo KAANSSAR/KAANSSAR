@@ -108,12 +108,7 @@ Status     ACTIVE
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KAANSSAR&show_icons=true&hide_border=true&count_private=true&bg_color=0A0E14&title_color=5FD068&icon_color=FF6B6B&text_color=FFFFFF&border_color=0A0E14" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAANSSAR&layout=compact&hide_border=true&bg_color=0A0E14&title_color=5FD068&text_color=FFFFFF&border_color=0A0E14" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=KAANSSAR&hide_border=true&background=0A0E14&stroke=5FD068&ring=5FD068&fire=FF6B6B&currStreakLabel=5FD068&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A78BFA" />
+<img src="https://raw.githubusercontent.com/KAANSSAR/KAANSSAR/main/stats-card.svg" width="100%"/>
 
 <br/><br/>
 
