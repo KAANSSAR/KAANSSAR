@@ -1,7 +1,10 @@
 """
 Fetches real stats (repos, stars, followers, top languages, contribution
-streak) via GitHub's GraphQL API using the Action's built-in GITHUB_TOKEN,
-and regenerates stats-card.svg. No external services, no extra secrets.
+streak) via GitHub's GraphQL API and regenerates stats-card.svg.
+
+Needs a Personal Access Token with the read:user scope passed in as the
+GITHUB_TOKEN env var (the automatic Actions token doesn't have read:user,
+so it can't query contributionsCollection).
 """
 import json
 import os
@@ -49,7 +52,12 @@ def gql(query, variables):
         },
     )
     with urllib.request.urlopen(req, timeout=15) as resp:
-        return json.loads(resp.read().decode())
+        result = json.loads(resp.read().decode())
+    if "errors" in result:
+        raise RuntimeError(f"GraphQL errors: {result['errors']}")
+    if "data" not in result:
+        raise RuntimeError(f"unexpected response: {result}")
+    return result
 
 def compute_streaks(days):
     # days: chronological list of (date_str, count)
