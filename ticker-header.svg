@@ -93,22 +93,22 @@
 <text x="720" y="60" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" fill="#7C8797">$330.32</text>
 <polygon points="836,50 831.5,58.5 840.5,58.5" fill="#5FD068" opacity="1"/>
 <text x="850" y="60" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" font-weight="700" fill="#5FD068">+1.60%</text>
-<path d="M 876.0,53.0 L 880.1,58.8 L 884.2,61.4 L 888.3,62.0 L 892.4,54.1 L 896.5,50.2 L 900.6,49.6 L 904.7,50.8 L 908.8,50.1 L 912.9,46.8 L 917.1,47.5 L 921.2,45.5 L 925.3,44.9 L 929.4,46.8 L 933.5,47.6 L 937.6,44.0 L 941.7,45.9 L 945.8,52.2 L 949.9,49.6 L 954.0,51.5" fill="none" stroke="#5FD068" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 876.0,55.3 L 880.1,53.0 L 884.2,58.8 L 888.3,61.4 L 892.4,62.0 L 896.5,54.1 L 900.6,50.2 L 904.7,49.6 L 908.8,50.8 L 912.9,50.1 L 917.1,46.8 L 921.2,47.5 L 925.3,45.5 L 929.4,44.9 L 933.5,46.8 L 937.6,47.6 L 941.7,44.0 L 945.8,45.9 L 949.9,52.2 L 954.0,49.6" fill="none" stroke="#5FD068" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="642" y="86" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="14" font-weight="700" fill="#F2F5F8">NVDA</text>
 <text x="720" y="86" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" fill="#7C8797">$230.86</text>
 <polygon points="836,76 831.5,84.5 840.5,84.5" fill="#5FD068" opacity="1"/>
 <text x="850" y="86" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" font-weight="700" fill="#5FD068">+6.17%</text>
-<path d="M 876.0,72.2 L 880.1,70.5 L 884.2,74.6 L 888.3,76.5 L 892.4,81.3 L 896.5,81.4 L 900.6,88.0 L 904.7,86.9 L 908.8,85.3 L 912.9,80.4 L 917.1,77.8 L 921.2,73.1 L 925.3,71.8 L 929.4,74.8 L 933.5,75.7 L 937.6,75.2 L 941.7,71.8 L 945.8,73.3 L 949.9,72.2 L 954.0,70.0" fill="none" stroke="#5FD068" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 876.0,75.5 L 880.1,71.8 L 884.2,70.0 L 888.3,74.3 L 892.4,76.2 L 896.5,81.1 L 900.6,81.2 L 904.7,88.0 L 908.8,86.9 L 912.9,85.3 L 917.1,80.2 L 921.2,77.5 L 925.3,72.8 L 929.4,71.4 L 933.5,74.5 L 937.6,75.4 L 941.7,74.9 L 945.8,71.4 L 949.9,72.9 L 954.0,71.8" fill="none" stroke="#5FD068" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="642" y="112" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="14" font-weight="700" fill="#F2F5F8">TSLA</text>
 <text x="720" y="112" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" fill="#7C8797">$354.11</text>
 <polygon points="836,112 831.5,103.5 840.5,103.5" fill="#FF6B6B" opacity="1"/>
 <text x="850" y="112" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" font-weight="700" fill="#FF6B6B">-0.56%</text>
-<path d="M 876.0,98.5 L 880.1,113.2 L 884.2,103.9 L 888.3,104.1 L 892.4,106.9 L 896.5,105.7 L 900.6,110.0 L 904.7,111.5 L 908.8,110.5 L 912.9,105.2 L 917.1,106.5 L 921.2,99.2 L 925.3,96.8 L 929.4,96.0 L 933.5,97.4 L 937.6,101.3 L 941.7,111.0 L 945.8,114.0 L 949.9,112.7 L 954.0,113.2" fill="none" stroke="#FF6B6B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 876.0,111.2 L 880.1,98.5 L 884.2,113.2 L 888.3,103.9 L 892.4,104.1 L 896.5,106.9 L 900.6,105.7 L 904.7,110.0 L 908.8,111.5 L 912.9,110.5 L 917.1,105.2 L 921.2,106.5 L 925.3,99.2 L 929.4,96.8 L 933.5,96.0 L 937.6,97.4 L 941.7,101.3 L 945.8,111.0 L 949.9,114.0 L 954.0,112.7" fill="none" stroke="#FF6B6B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="642" y="138" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="14" font-weight="700" fill="#F2F5F8">MSFT</text>
 <text x="720" y="138" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" fill="#7C8797">$512.80</text>
 <polygon points="836,128 831.5,136.5 840.5,136.5" fill="#5FD068" opacity="1"/>
 <text x="850" y="138" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" font-weight="700" fill="#5FD068">+2.35%</text>
-<path d="M 876.0,126.2 L 880.1,133.5 L 884.2,137.5 L 888.3,139.1 L 892.4,138.5 L 896.5,136.3 L 900.6,129.5 L 904.7,135.3 L 908.8,140.0 L 912.9,134.8 L 917.1,137.6 L 921.2,132.1 L 925.3,134.6 L 929.4,132.8 L 933.5,134.7 L 937.6,122.0 L 941.7,126.8 L 945.8,127.0 L 949.9,124.3 L 954.0,124.3" fill="none" stroke="#5FD068" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 876.0,135.5 L 880.1,126.2 L 884.2,133.5 L 888.3,137.5 L 892.4,139.1 L 896.5,138.5 L 900.6,136.3 L 904.7,129.5 L 908.8,135.3 L 912.9,140.0 L 917.1,134.8 L 921.2,137.6 L 925.3,132.1 L 929.4,134.6 L 933.5,132.8 L 937.6,134.7 L 941.7,122.0 L 945.8,126.8 L 949.9,127.0 L 954.0,124.3" fill="none" stroke="#5FD068" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 
   <text x="42" y="92" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="46" font-weight="700" fill="#5FD068" filter="url(#softGlow)" opacity="0.5">KANISHKA SARKAR</text>
   <text x="42" y="92" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="46" font-weight="700" fill="#F2F5F8">
