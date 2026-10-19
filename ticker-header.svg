@@ -90,25 +90,25 @@
   <rect x="628" y="14" width="340" height="150" rx="4" fill="none" stroke="#5FD068" opacity="0.35"/>
 <text x="642" y="36" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="12" font-weight="700" fill="#7C8797" letter-spacing="1">WATCHLIST</text>
 <text x="642" y="60" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="14" font-weight="700" fill="#F2F5F8">AAPL</text>
-<text x="720" y="60" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" fill="#7C8797">$343.46</text>
+<text x="720" y="60" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" fill="#7C8797">$341.32</text>
 <polygon points="836,50 831.5,58.5 840.5,58.5" fill="#5FD068" opacity="1"/>
-<text x="850" y="60" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" font-weight="700" fill="#5FD068">+3.32%</text>
-<path d="M 876.0,49.7 L 880.1,48.7 L 884.2,52.2 L 888.3,53.7 L 892.4,47.1 L 896.5,50.5 L 900.6,62.0 L 904.7,57.4 L 908.8,60.8 L 912.9,56.5 L 917.1,57.5 L 921.2,56.6 L 925.3,52.7 L 929.4,47.9 L 933.5,52.7 L 937.6,47.2 L 941.7,46.8 L 945.8,44.6 L 949.9,45.9 L 954.0,44.0" fill="none" stroke="#5FD068" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="850" y="60" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" font-weight="700" fill="#5FD068">+1.55%</text>
+<path d="M 876.0,48.7 L 880.1,52.2 L 884.2,53.7 L 888.3,47.1 L 892.4,50.5 L 896.5,62.0 L 900.6,57.4 L 904.7,60.8 L 908.8,56.5 L 912.9,57.5 L 917.1,56.6 L 921.2,52.7 L 925.3,47.9 L 929.4,52.7 L 933.5,47.2 L 937.6,46.8 L 941.7,44.6 L 945.8,45.9 L 949.9,44.0 L 954.0,46.7" fill="none" stroke="#5FD068" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="642" y="86" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="14" font-weight="700" fill="#F2F5F8">NVDA</text>
-<text x="720" y="86" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" fill="#7C8797">$214.13</text>
-<polygon points="836,76 831.5,84.5 840.5,84.5" fill="#5FD068" opacity="1"/>
-<text x="850" y="86" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" font-weight="700" fill="#5FD068">+0.11%</text>
-<path d="M 876.0,78.5 L 880.1,77.4 L 884.2,79.8 L 888.3,80.5 L 892.4,80.2 L 896.5,77.4 L 900.6,78.6 L 904.7,77.8 L 908.8,76.0 L 912.9,73.8 L 917.1,70.2 L 921.2,70.0 L 925.3,71.3 L 929.4,76.3 L 933.5,77.1 L 937.6,79.3 L 941.7,77.7 L 945.8,82.9 L 949.9,85.8 L 954.0,88.0" fill="none" stroke="#5FD068" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="720" y="86" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" fill="#7C8797">$219.16</text>
+<polygon points="836,86 831.5,77.5 840.5,77.5" fill="#FF6B6B" opacity="1"/>
+<text x="850" y="86" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" font-weight="700" fill="#FF6B6B">-1.40%</text>
+<path d="M 876.0,77.4 L 880.1,79.8 L 884.2,80.5 L 888.3,80.2 L 892.4,77.4 L 896.5,78.6 L 900.6,77.8 L 904.7,76.0 L 908.8,73.8 L 912.9,70.2 L 917.1,70.0 L 921.2,71.3 L 925.3,76.3 L 929.4,77.1 L 933.5,79.3 L 937.6,77.7 L 941.7,82.9 L 945.8,85.8 L 949.9,88.0 L 954.0,84.4" fill="none" stroke="#FF6B6B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="642" y="112" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="14" font-weight="700" fill="#F2F5F8">TSLA</text>
-<text x="720" y="112" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" fill="#7C8797">$354.72</text>
-<polygon points="836,112 831.5,103.5 840.5,103.5" fill="#FF6B6B" opacity="1"/>
-<text x="850" y="112" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" font-weight="700" fill="#FF6B6B">-0.94%</text>
-<path d="M 876.0,100.5 L 880.1,98.3 L 884.2,97.6 L 888.3,98.9 L 892.4,102.4 L 896.5,111.2 L 900.6,114.0 L 904.7,112.8 L 908.8,113.2 L 912.9,103.3 L 917.1,98.4 L 921.2,97.2 L 925.3,98.9 L 929.4,100.6 L 933.5,96.0 L 937.6,98.8 L 941.7,100.5 L 945.8,105.4 L 949.9,108.2 L 954.0,112.9" fill="none" stroke="#FF6B6B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="720" y="112" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" fill="#7C8797">$368.25</text>
+<polygon points="836,102 831.5,110.5 840.5,110.5" fill="#5FD068" opacity="1"/>
+<text x="850" y="112" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" font-weight="700" fill="#5FD068">+1.09%</text>
+<path d="M 876.0,98.3 L 880.1,97.6 L 884.2,98.9 L 888.3,102.4 L 892.4,111.2 L 896.5,114.0 L 900.6,112.8 L 904.7,113.2 L 908.8,103.3 L 912.9,98.4 L 917.1,97.2 L 921.2,98.9 L 925.3,100.6 L 929.4,96.0 L 933.5,98.8 L 937.6,100.5 L 941.7,105.4 L 945.8,108.2 L 949.9,112.9 L 954.0,104.7" fill="none" stroke="#5FD068" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="642" y="138" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="14" font-weight="700" fill="#F2F5F8">MSFT</text>
-<text x="720" y="138" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" fill="#7C8797">$529.05</text>
+<text x="720" y="138" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" fill="#7C8797">$533.59</text>
 <polygon points="836,128 831.5,136.5 840.5,136.5" fill="#5FD068" opacity="1"/>
-<text x="850" y="138" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" font-weight="700" fill="#5FD068">+7.90%</text>
-<path d="M 876.0,138.5 L 880.1,140.0 L 884.2,138.9 L 888.3,140.0 L 892.4,132.8 L 896.5,135.5 L 900.6,135.6 L 904.7,134.1 L 908.8,134.1 L 912.9,132.2 L 917.1,129.2 L 921.2,127.6 L 925.3,127.4 L 929.4,130.2 L 933.5,125.3 L 937.6,122.9 L 941.7,122.0 L 945.8,125.9 L 949.9,123.6 L 954.0,127.7" fill="none" stroke="#5FD068" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="850" y="138" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="13" font-weight="700" fill="#5FD068">+8.06%</text>
+<path d="M 876.0,140.0 L 880.1,138.9 L 884.2,140.0 L 888.3,132.8 L 892.4,135.5 L 896.5,135.6 L 900.6,134.1 L 904.7,134.1 L 908.8,132.2 L 912.9,129.2 L 917.1,127.6 L 921.2,127.4 L 925.3,130.2 L 929.4,125.3 L 933.5,122.9 L 937.6,122.0 L 941.7,125.9 L 945.8,123.6 L 949.9,127.7 L 954.0,125.9" fill="none" stroke="#5FD068" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 
   <text x="42" y="92" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="46" font-weight="700" fill="#5FD068" filter="url(#softGlow)" opacity="0.5">KANISHKA SARKAR</text>
   <text x="42" y="92" font-family="'SF Mono',Consolas,Monaco,monospace" font-size="46" font-weight="700" fill="#F2F5F8">
