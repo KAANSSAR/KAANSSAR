@@ -26,7 +26,7 @@
 
 I build tools at the intersection of code and markets. Currently working on a suite of quant analytics systems: **Cardinal**, a full-stack equity terminal with live DCF valuation and four agentic AI analysts, **Stratum**, a cross-sectional momentum engine for the NSE500, and an **Options Pricing Engine** covering Black-Scholes, binomial trees, and Monte Carlo.
 
-Final-year Software Engineering (Honours) at the University of Sydney, graduating December 2026. Previously built a production multi-agent system at TCS Garage.
+Final-year Software Engineering (Honours) at the University of Sydney, graduating December 2026. My honours thesis, a deterministic degree-planning engine for USYD and UTS with a language model that explains but never decides, is open source. Previously built a production multi-agent system at TCS Garage.
 
 </td>
 <td width="42%" valign="top">
@@ -64,7 +64,7 @@ Status     ACTIVE
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=FF6B6B)
 ![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=A78BFA)
 
-**Gemini API** &nbsp;·&nbsp; **YOLO11** &nbsp;·&nbsp; **Framer Motion** &nbsp;·&nbsp; **Parquet**
+**Gemini API** &nbsp;·&nbsp; **OR-Tools** &nbsp;·&nbsp; **Ollama** &nbsp;·&nbsp; **YOLO11** &nbsp;·&nbsp; **Framer Motion** &nbsp;·&nbsp; **Parquet**
 
 </div>
 
@@ -79,6 +79,12 @@ Status     ACTIVE
 | `CDN` | **[Cardinal](https://github.com/KAANSSAR/Cardinal)** | Full-stack equity analysis terminal: live DCF valuation, quant signal analytics, and algo backtesting across US, Indian, and European markets, with four agentic AI analysts interpreting each lens. FastAPI, React, TypeScript, Gemini 2.5. |
 | `STM` | **[Stratum](https://github.com/KAANSSAR/Stratum)** | Cross-sectional momentum analytics engine for the NSE500. Columnar Parquet storage, YAML-driven signal config, dual-criterion momentum detection. |
 | `OPE` | **[Options Pricing Engine](https://github.com/KAANSSAR/Options-Pricing-Engine)** | Black-Scholes, Binomial Tree (CRR), and Monte Carlo pricing with a live IV solver, a 7-tab Streamlit dashboard, and a 220-test suite. |
+
+**Research**
+
+| Ticker | Project | Detail |
+|---|---|---|
+| `HON` | **[Honours Thesis](https://github.com/KAANSSAR/honours-thesis)** | Deterministic rule engine that builds, checks and repairs engineering degree plans at USYD and UTS when a student fails a unit. All 1,497 single-failure repairs valid, verified by an independent checker and a CP-SAT model that proves the repair shortest in 93.8% of cases. A Qwen3-8B layer turns questions into engine calls and explains the result, but never decides validity. Python, OR-Tools, Ollama. |
 
 **Applied AI / Computer Vision**
 
@@ -97,6 +103,7 @@ Status     ACTIVE
 <a href="https://github.com/KAANSSAR/Cardinal"><img src="https://img.shields.io/badge/REPO-CARDINAL-000000?style=for-the-badge&logo=github&logoColor=5FD068&labelColor=000000&color=0D0D0D"></a>
 <a href="https://github.com/KAANSSAR/Stratum"><img src="https://img.shields.io/badge/REPO-STRATUM-000000?style=for-the-badge&logo=github&logoColor=5FD068&labelColor=000000&color=0D0D0D"></a>
 <a href="https://github.com/KAANSSAR/Options-Pricing-Engine"><img src="https://img.shields.io/badge/REPO-OPTIONS_PRICING-000000?style=for-the-badge&logo=github&logoColor=5FD068&labelColor=000000&color=0D0D0D"></a>
+<a href="https://github.com/KAANSSAR/honours-thesis"><img src="https://img.shields.io/badge/REPO-HONOURS_THESIS-000000?style=for-the-badge&logo=github&logoColor=5FD068&labelColor=000000&color=0D0D0D"></a>
 <a href="https://github.com/KAANSSAR/CattleScanner"><img src="https://img.shields.io/badge/REPO-CATTLESCANNER-000000?style=for-the-badge&logo=github&logoColor=5FD068&labelColor=000000&color=0D0D0D"></a>
 <a href="https://github.com/KAANSSAR/Portfolio"><img src="https://img.shields.io/badge/REPO-PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=5FD068&labelColor=000000&color=0D0D0D"></a>
 
